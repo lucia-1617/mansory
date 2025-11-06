@@ -1,0 +1,14 @@
+{
+  "class_names": [
+    "sin_grietas",
+    "compresion_vertical_Grave",
+    "compresion_vertical_Leve",
+    "compresion_vertical_Moderada",
+    "friccion_cortante_escalonada_Grave",
+    "friccion_cortante_escalonada_Leve",
+    "friccion_cortante_escalonada_Moderada",
+    "tension_diagonal_inclinadas_Grave",
+    "tension_diagonal_inclinadas_Leve",
+    "tension_diagonal_inclinadas_Moderada"
+  ]
+}
